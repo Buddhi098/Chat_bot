@@ -8,6 +8,5 @@ altair
 tiktoken
 huggingface-hub
 InstructorEmbedding
-sentence-transformers
 langchain_openai
 langchain_community
